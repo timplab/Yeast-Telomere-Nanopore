@@ -1,2 +1,2 @@
-# Yeast-Telomere_Nanopore
+# Yeast-Telomere-Nanopore
 Telomere length measurement 
